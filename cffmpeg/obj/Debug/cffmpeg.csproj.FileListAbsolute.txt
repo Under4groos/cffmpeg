@@ -1,0 +1,12 @@
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\bin\Debug\cffmpeg.exe.config
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\bin\Debug\cffmpeg.exe
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\bin\Debug\cffmpeg.pdb
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\obj\Debug\cffmpeg.Properties.Resource.resources
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\obj\Debug\cffmpeg.csproj.GenerateResource.cache
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\obj\Debug\cffmpeg.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\obj\Debug\cffmpeg.exe
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\obj\Debug\cffmpeg.pdb
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\bin\Debug\NReco.VideoConverter.dll
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\bin\Debug\NReco.VideoConverter.xml
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\obj\Debug\cffmpeg.csproj.CopyComplete
+C:\Users\UnderKo\source\repos\cffmpeg\cffmpeg\obj\Debug\cffmpeg.csprojAssemblyReference.cache
